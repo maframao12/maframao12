@@ -2,9 +2,9 @@
 AWS
 
 <p align="center">
-  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="150">
-  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png" width="150">
-  <img src="https://d1.awsstatic.com/certification/badges/aws-credly-badges-early-adopter-aws-certified-ai-practitioner-150x150.aa33f9dd089bb796a3621897eb7647c3b4254fc8.png" width="150">
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="10">
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png" width="10">
+  <img src="https://d1.awsstatic.com/certification/badges/aws-credly-badges-early-adopter-aws-certified-ai-practitioner-150x150.aa33f9dd089bb796a3621897eb7647c3b4254fc8.png" width="100">
 </p>
 <!--
 **maframao12/maframao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
