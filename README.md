@@ -4,21 +4,17 @@ AWS
 <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="Logo da Minha Empresa">
 <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png" alt="Logo da Minha Empresa">
     
-<div class="box">
-    <img src="d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"/>
-    <span> Titulo da primeira imagem </span>
-</div>
-<div class="box">
-    <img src=""https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png""/>
-    <span> Titulo da segunda imagem </span>
-</div>
+    <div class="holder">
 
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
+  <div class="imagem" data-title="legenda # 1">
+    <img src="d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="">
+  </div>
+
+  <div class="imagem" data-title="legenda # 2">
+    <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png" alt="">
+  </div>
+
+</div>
 
 
 <!--
