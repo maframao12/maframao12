@@ -7,7 +7,7 @@ AWS
     <div class="holder">
 
   <div class="imagem" data-title="legenda # 1">
-    <img src="d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="">
+    <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="">
   </div>
 
   <div class="imagem" data-title="legenda # 2">
