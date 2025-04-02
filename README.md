@@ -1,18 +1,21 @@
-## Hello, world! 👋
-
-   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
+  
 </head>
 <body>
     <div class="container">
+       <div align="center">
+        ## Hello, world! 👋
         <h1>Bem-vindo!</h1>
         <p>Olá! Meu nome é <strong>Emerson Mafra</strong> e este é um espaço dedicado à tecnologia.</p>
         <p>Aqui, vamos explorar novidades, tendências e conhecimentos sobre o universo tech.</p>
         <p>Minhas certificações</p>
          <p>--------------------</p>
         </div>
+       </div>
 </body>
 </html>
- <strong>AWS </strong>
+ <div align="center">
+ <strong>AWS </strong> </div>
 
 <p align="center">
   <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="100">
@@ -25,7 +28,7 @@
     alt="Visitor Count"
   />
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 <!--
 **maframao12/maframao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
