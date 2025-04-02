@@ -25,6 +25,7 @@
     alt="Visitor Count"
   />
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 <!--
 **maframao12/maframao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
